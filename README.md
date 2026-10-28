@@ -1,3 +1,5 @@
+![alt text](https://github.com/a-dakir/a-dakir/blob/main/images/header.png "Banner")
+
 ### Hey there  <img src="https://emojis.slackmojis.com/emojis/images/1643512754/51021/thisisfine.gif" width="25"/>
 I'm Ali, a Comp. Sci. student based in Italy.
 I like working on Case Studies and Tech solutions to specific real-world problems.
