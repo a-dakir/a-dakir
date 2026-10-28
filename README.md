@@ -10,7 +10,7 @@ I like working on Case Studies and Tech solutions to specific real-world problem
 I use C#, PHP, JS. Proficient in Unity, experienced in SQL.
 My main tools are Visual Studio, VS Code, Figma for Prototyping and UI/UX, Blender for 3d Modeling.
 
-![---](https://github.com/a-dakir/a-dakir/blob/main/images/line.png "Line divider")
+![---](https://github.com/a-dakir/a-dakir/blob/main/images/line2.png "Line divider")
 
 *I have a deep addiction to coffee.*
 <!--
