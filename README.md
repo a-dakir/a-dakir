@@ -4,7 +4,7 @@
 I'm Ali, a Comp. Sci. student based in Italy.
 I like working on Case Studies and Tech solutions to specific real-world problems.
 
-![---](https://github.com/a-dakir/a-dakir/blob/main/images/line.png "Line divider")
+![---](https://github.com/a-dakir/a-dakir/blob/main/images/line1.png "Line divider")
 
 ### Tech Stack
 I use C#, PHP, JS. Proficient in Unity, experienced in SQL.
