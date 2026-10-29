@@ -14,6 +14,12 @@ My main tools are Visual Studio, VS Code, Figma for Prototyping and UI/UX, Blend
 
 ![---](https://github.com/a-dakir/a-dakir/blob/main/images/line2.png "Line divider")
 
+Currently working on Lytera, a CRM Case Study for the management of Safety Training Course Agency customer relationships.
+
+Open to work / collaborations.
+
+![---](https://github.com/a-dakir/a-dakir/blob/main/images/line2.png "Line divider")
+
 *I have a deep addiction to coffee.*
 <!--
 **a-dakir/a-dakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
