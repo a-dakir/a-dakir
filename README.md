@@ -8,7 +8,7 @@ I like working on Case Studies and Tech solutions to specific real-world problem
 
 ### Tech Stack
 I use C#, PHP, HTML, CSS, JS. Proficient in Unity, experienced in SQL.
-My main tools are Visual Studio, VS Code, Figma for Prototyping and UI/UX, Blender for 3d Modeling, Ableton fpr Sound Production.
+My main tools are Visual Studio, VS Code, Figma for Prototyping and UI/UX, Blender for 3d Modeling, Ableton for Sound Production.
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,html,css,js,unity,mysql,docker,vscode,visualstudio,eclipse,wordpress,ableton,blender,figma&theme=dark)]()
 
