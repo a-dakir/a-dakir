@@ -14,7 +14,7 @@ My main tools are Visual Studio, VS Code, Figma for Prototyping and UI/UX, Blend
 
 ![---](https://github.com/a-dakir/a-dakir/blob/main/images/line2.png "Line divider")
 
-Currently working on Lytera, a CRM Case Study for the management of Safety Training Course Agency customer relationships.
+Currently working on **_Lytera_**, a CRM Case Study for the management of Safety Training Course Agency customer relationships.
 
 Open to work / collaborations.
 
